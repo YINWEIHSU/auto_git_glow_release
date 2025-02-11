@@ -49,10 +49,7 @@ This is an automated release script based on Git Flow, developed for my team to 
    yum install git-flow
    ```
 
-2. 下載腳本到你的專案目錄：
-   ```bash
-   curl -O https://raw.githubusercontent.com/[your-username]/[your-repo]/main/release.sh
-   ```
+2. 下載腳本到你的專案目錄
 
 3. 為腳本添加執行權限：
    ```bash
@@ -176,10 +173,7 @@ GIT_FLOW_CHECK_CMD="git-flow"
    yum install git-flow
    ```
 
-2. Download the script to your project directory:
-   ```bash
-   curl -O https://raw.githubusercontent.com/[your-username]/[your-repo]/main/release.sh
-   ```
+2. Download the script to your project directory
 
 3. Add execution permissions to the script:
    ```bash
