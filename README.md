@@ -177,7 +177,7 @@ GIT_FLOW_CHECK_CMD="git-flow"
 
 3. Add execution permissions to the script:
    ```bash
-   chmod +x auto_git_flow_release_zh.sh
+   chmod +x auto_git_flow_release_en.sh
    ```
 
 ## Configuration
@@ -201,7 +201,7 @@ REMOTE_NAME="origin"
 
 1. Execute the script in your project root directory:
    ```bash
-   ./auto_git_flow_release_zh.sh
+   ./auto_git_flow_release_en.sh
    ```
 
 2. Follow the prompts:
@@ -245,7 +245,7 @@ If you encounter any of these issues:
 
 1. Permission error:
    ```bash
-   chmod +x auto_git_flow_release_zh.sh
+   chmod +x auto_git_flow_release_en.sh
    ```
 
 2. Git Flow not initialized:
