@@ -53,7 +53,7 @@ This is an automated release script based on Git Flow, developed for my team to 
 
 3. 為腳本添加執行權限：
    ```bash
-   chmod +x release.sh
+   chmod +x auto_git_flow_release_zh.sh
    ```
 
 ## 配置說明
@@ -80,7 +80,7 @@ GIT_FLOW_CHECK_CMD="git-flow"
 
 1. 在專案根目錄執行腳本：
    ```bash
-   ./release.sh
+   ./auto_git_flow_release_zh.sh
    ```
 
 2. 按照提示進行操作：
@@ -124,7 +124,7 @@ GIT_FLOW_CHECK_CMD="git-flow"
 
 1. 權限錯誤：
    ```bash
-   chmod +x release.sh
+   chmod +x auto_git_flow_release_zh.sh
    ```
 
 2. Git Flow 未初始化：
@@ -177,7 +177,7 @@ GIT_FLOW_CHECK_CMD="git-flow"
 
 3. Add execution permissions to the script:
    ```bash
-   chmod +x release.sh
+   chmod +x auto_git_flow_release_zh.sh
    ```
 
 ## Configuration
@@ -201,7 +201,7 @@ REMOTE_NAME="origin"
 
 1. Execute the script in your project root directory:
    ```bash
-   ./release.sh
+   ./auto_git_flow_release_zh.sh
    ```
 
 2. Follow the prompts:
@@ -245,7 +245,7 @@ If you encounter any of these issues:
 
 1. Permission error:
    ```bash
-   chmod +x release.sh
+   chmod +x auto_git_flow_release_zh.sh
    ```
 
 2. Git Flow not initialized:
